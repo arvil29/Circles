@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "722733502309",
+    "firebase_url": "https://moneymoves-ae8d3.firebaseio.com",
+    "project_id": "moneymoves-ae8d3",
+    "storage_bucket": "moneymoves-ae8d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722733502309:android:fec7eca738c4416d5ddb8c",
+        "android_client_info": {
+          "package_name": "com.app.Circles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722733502309-b7l3t995bcsn1ao2davbug4voqsr13e2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.Circles",
+            "certificate_hash": "0972e5cd576d2b251a1338d0a7ad515bc736afd0"
+          }
+        },
+        {
+          "client_id": "722733502309-3pnovhna33gip8k9h6rfv7evke5ft138.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEaZ3jEvmDIi1r5h1mBxlSvS_jrOMASbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722733502309-3pnovhna33gip8k9h6rfv7evke5ft138.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
